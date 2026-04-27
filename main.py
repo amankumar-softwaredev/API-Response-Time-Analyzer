@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-ifsc_code = "CNRB0001913"
+ifsc_code = "PUNB0146700"
 url = f"https://ifsc.razorpay.com/{ifsc_code}"
 
 headers = {
